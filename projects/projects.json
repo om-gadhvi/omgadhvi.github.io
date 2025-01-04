@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Plant Leave Disease Detection: CropSense",
+    "desc": "Design a Python Flask web application and developed a CNN-based deep learning model with Kaggle data, achieving 92.03%",
+    "image": "plant",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/om-gadhvi"
+    }
+  },
+  {
+    "name": "Student Information System",
+    "desc": "An ERP Sytem:- Developed a comprehensive platform to revolutionize Smart Education System with advanced technologies.",
+    "image": "SIS",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/om-gadhvi"
+    }
+  },
+  {
+    "name": "FarmTech",
+    "desc": "A platform where the farmer can earn by renting their non useable heavy machine.",
+    "image": "Farmer",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/om-gadhvi"
+    }
+  }
+]
